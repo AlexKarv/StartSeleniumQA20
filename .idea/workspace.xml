@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851b3269-f952-4fb7-9df7-3e1287905176" name="Changes" comment="abc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/BusDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/IDoing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/Ingineers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOP2/Workers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/CatParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/FirstMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Kitty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/SecondCastingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CadtingBaseExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +29,26 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -26,19 +56,22 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2UfVqw51pMj9f2KTBNnrhxe6eq7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "addtextgood",
-    "onboarding.tips.debug.path": "C:/Projects/StartSeleniumQA20/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;addtextgood&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/StartSeleniumQA20&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projects/StartSeleniumQA20/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,10 +89,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693333003946</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="abc">
+      <option name="closed" value="true" />
+      <created>1693556219475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693556219475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="add main dd" />
     <MESSAGE value="abc" />
     <option name="LAST_COMMIT_MESSAGE" value="abc" />
   </component>
