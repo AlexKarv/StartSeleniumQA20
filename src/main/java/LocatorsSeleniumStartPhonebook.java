@@ -43,6 +43,7 @@ public class LocatorsSeleniumStartPhonebook {
         WebElement findByNamez = driver.findElement(By.cssSelector("[name='login']"));
         System.out.println(findByNamez.getTagName());
 
+
         driver.quit();
     }
 
