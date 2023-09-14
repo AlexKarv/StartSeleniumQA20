@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="851b3269-f952-4fb7-9df7-3e1287905176" name="Changes" comment="add d project with OOP2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OneCalssMain.java" afterDir="false" />
+    <list default="true" id="851b3269-f952-4fb7-9df7-3e1287905176" name="Changes" comment="add new branch">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorsSeleniumStartPhonebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumSccIlcaro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +53,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/StartSeleniumQA20&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projects/StartSeleniumQA20/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Projects/Locators",
+    "onboarding.tips.debug.path": "C:/Projects/StartSeleniumQA20/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694155460059</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new branch">
+      <option name="closed" value="true" />
+      <created>1694182363012</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694182363012</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,7 +127,8 @@
     <MESSAGE value="abc" />
     <MESSAGE value="add project with OOP2" />
     <MESSAGE value="add d project with OOP2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add d project with OOP2" />
+    <MESSAGE value="add new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
