@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="851b3269-f952-4fb7-9df7-3e1287905176" name="Changes" comment="add new branch m">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumXpathIlcaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumXpathPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/TableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +44,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AlexKarv"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexKarv&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -70,10 +74,91 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/Locators&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/StartSeleniumQA20&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Projects/StartSeleniumQA20/src/main/java/org/example/Main.java&quot;
   }
 }</component>
+  <component name="RunManager" selected="TestNG.SeleniumXpathPhoneBook.test1Xpath">
+    <configuration name="SeleniumXpathIlcaro.test1Xpath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StartSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumXpathIlcaro" />
+      <option name="METHOD_NAME" value="test1Xpath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumXpathPhoneBook.test1Xpath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StartSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.SeleniumXpathPhoneBook" />
+      <option name="METHOD_NAME" value="test1Xpath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StartSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.TableTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest.tableTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="StartSeleniumQA20.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumour" />
+      <option name="MAIN_CLASS_NAME" value="seleniumour.TableTest" />
+      <option name="METHOD_NAME" value="tableTest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SeleniumXpathPhoneBook.test1Xpath" />
+        <item itemvalue="TestNG.SeleniumXpathIlcaro.test1Xpath" />
+        <item itemvalue="TestNG.TableTest" />
+        <item itemvalue="TestNG.TableTest.tableTest1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -147,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694719934894</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add new branch m">
+      <option name="closed" value="true" />
+      <created>1695136677464</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695136677464</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,7 +249,8 @@
     <MESSAGE value="add project with OOP2" />
     <MESSAGE value="add d project with OOP2" />
     <MESSAGE value="add new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new branch" />
+    <MESSAGE value="add new branch m" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new branch m" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
